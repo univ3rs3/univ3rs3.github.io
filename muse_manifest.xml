@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541369121432">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541369648681">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="144963599" ref="index"/>
@@ -18,10 +18,10 @@
     <file name="u159-4.png" crc="453357908" ref="index"/>
     <file name="u129-10.png" crc="3961171470" ref="index"/>
     <file name="u156-10.png" crc="87244505" ref="index"/>
-    <file name="u179-6.png" crc="4238618334" ref="index"/>
+    <file name="u179-6.png" crc="351217835" ref="index"/>
     <file name="tnejezp.jpg" crc="445116914" ref="index"/>
     <file name="u176-4.png" crc="4225340151" ref="index"/>
     <file name="u182-4.png" crc="151868898" ref="index"/>
   </folder>
-  <file name="index.html" crc="296393242" seo="true" mt="1541369110258" redirect="true"/>
+  <file name="index.html" crc="3869569946" seo="true" mt="1541369640039" redirect="true"/>
 </manifest>
