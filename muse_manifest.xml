@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541369648681">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541369748141">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="144963599" ref="index"/>
