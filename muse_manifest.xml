@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541444344640">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541450492849">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="398398561" ref="index"/>
-    <file name="follower-bot.css" crc="296113725" ref="follower-bot"/>
+    <file name="follower-bot.css" crc="258964636" ref="follower-bot"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:follower-bot"/>
@@ -29,5 +29,5 @@
     <file name="2000px-speed_ballonicon2svg.png" crc="4221205723" seo="true" ref="follower-bot"/>
   </folder>
   <file name="index.html" crc="4138089018" seo="true" mt="1541444306065" redirect="true"/>
-  <file name="follower-bot.html" crc="516677728" seo="true" mt="1541444159429" redirect="true"/>
+  <file name="follower-bot.html" crc="4269945495" seo="true" mt="1541450475637" redirect="true"/>
 </manifest>
