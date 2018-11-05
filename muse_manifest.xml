@@ -1,27 +1,33 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541424689649">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541444344640">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4293490676" ref="index"/>
+    <file name="index.css" crc="398398561" ref="index"/>
+    <file name="follower-bot.css" crc="296113725" ref="follower-bot"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:follower-bot"/>
+    <file name="museutils.js" crc="163421577" ref="index:follower-bot"/>
+    <file name="whatinput.js" crc="86476730" ref="index:follower-bot"/>
+    <file name="museconfig.js" crc="36584860" ref="index:follower-bot"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:follower-bot"/>
+    <file name="require.js" crc="244322403" ref="index:follower-bot"/>
   </folder>
   <folder name="images">
     <file name="the-mysterious-powerful-workings-of-life-the-universe-l-hawk-pearl.jpg" crc="164573604" ref="index"/>
     <file name="u122-4.png" crc="275635980" ref="index"/>
-    <file name="u135-4.png" crc="265981226" ref="index"/>
-    <file name="u159-4.png" crc="453357908" ref="index"/>
     <file name="u129-10.png" crc="3961171470" ref="index"/>
+    <file name="u135-4.png" crc="265981226" ref="index"/>
     <file name="u156-10.png" crc="87244505" ref="index"/>
-    <file name="u179-6.png" crc="3782989316" ref="index"/>
-    <file name="tnejezp.jpg" crc="445116914" ref="index"/>
+    <file name="u159-4.png" crc="453357908" ref="index"/>
     <file name="u176-4.png" crc="294195694" ref="index"/>
     <file name="u182-4.png" crc="151868898" ref="index"/>
+    <file name="soccer-galaxy-wallpaper-tumblr-hd.jpg" crc="326758108" ref="index"/>
+    <file name="u207-11.png" crc="4080153112" ref="index"/>
+    <file name="latest.png" crc="3890330941" seo="true" ref="follower-bot"/>
+    <file name="latest2.png" crc="442538274" seo="true" ref="follower-bot"/>
+    <file name="b3300af38ca302510bb9bb171d1ada29.png" crc="4210901856" seo="true" ref="follower-bot"/>
+    <file name="2000px-speed_ballonicon2svg.png" crc="4221205723" seo="true" ref="follower-bot"/>
   </folder>
-  <file name="index.html" crc="4203816399" seo="true" mt="1541424580043" redirect="true"/>
+  <file name="index.html" crc="4138089018" seo="true" mt="1541444306065" redirect="true"/>
+  <file name="follower-bot.html" crc="516677728" seo="true" mt="1541444159429" redirect="true"/>
 </manifest>

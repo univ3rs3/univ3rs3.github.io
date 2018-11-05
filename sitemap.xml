@@ -6,4 +6,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://univ3rs3.github.io/follower-bot.html</loc>
+    <lastmod>2018-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://univ3rs3.github.io/images/latest2.png</loc>
+    <lastmod>2018-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://univ3rs3.github.io/images/latest.png</loc>
+    <lastmod>2018-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://univ3rs3.github.io/images/b3300af38ca302510bb9bb171d1ada29.png</loc>
+    <lastmod>2018-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://univ3rs3.github.io/images/2000px-speed_ballonicon2svg.png</loc>
+    <lastmod>2018-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
