@@ -1,7 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1541708403228">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="univ3rs3.github.io" resolutions="1x" timestamp="1543671539478">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3896208235" ref="index"/>
+    <file name="index.css" crc="3962698367" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="the-plague.png" crc="89267270" seo="true" mt="1543670564000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,16 +15,8 @@
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="the-mysterious-powerful-workings-of-life-the-universe-l-hawk-pearl.jpg" crc="164573604" ref="index"/>
-    <file name="u122-4.png" crc="275635980" ref="index"/>
-    <file name="u129-10.png" crc="3961171470" ref="index"/>
-    <file name="u135-4.png" crc="265981226" ref="index"/>
-    <file name="u156-10.png" crc="87244505" ref="index"/>
-    <file name="u159-4.png" crc="453357908" ref="index"/>
-    <file name="u176-4.png" crc="294195694" ref="index"/>
-    <file name="u182-4.png" crc="151868898" ref="index"/>
-    <file name="soccer-galaxy-wallpaper-tumblr-hd.jpg" crc="326758108" ref="index"/>
-    <file name="u207-16.png" crc="4212561916" ref="index"/>
+    <file name="the plague.jpg" crc="4017623176" seo="true" ref="index"/>
+    <file name="latest.png" crc="3772266616" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="381572611" seo="true" mt="1541708382716" redirect="true"/>
+  <file name="index.html" crc="369260823" seo="true" mt="1543671481186" redirect="true"/>
 </manifest>

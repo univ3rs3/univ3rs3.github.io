@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://univ3rs3.github.io/index.html</loc>
-    <lastmod>2018-11-08</lastmod>
+    <lastmod>2018-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://univ3rs3.github.io/images/the%20plague.jpg</loc>
+    <lastmod>2018-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://univ3rs3.github.io/assets/the-plague.png</loc>
+    <lastmod>2018-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://univ3rs3.github.io/images/latest.png</loc>
+    <lastmod>2018-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
